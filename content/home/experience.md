@@ -89,4 +89,21 @@ date_format = "Jan 2006"
   * Matlab, C, Python, R
   """
   
+[[experience]]
+  title = "BS in Psychology"
+  company = "Beijing Normal University"
+  company_url = "http://psych.bnu.edu.cn/"
+  location = "Beijing, CHINA"
+  date_start = "Sep 2017"
+  date_end = "June 2021"
+  description = """
+  
+  Main courses:
+  
+  * Cognitive Neuroscience, Computational Neuroscience, Experimental Psychology, Psychological Statistics, Psychometry, Methodology of Psychology
+  * Introduction to Psychology, Personality Psychology, Abnormal Psychology, Social Psychology
+  * Matlab, C, Python, R
+  """
+  
+  
 +++
