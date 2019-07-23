@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Siyu(Valerie) Lai
+name: Siyu Lai
 
 # Username (this should match the folder name)
 authors:
