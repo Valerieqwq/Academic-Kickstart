@@ -67,4 +67,6 @@ social:
 
 I am an undergraduate student majored in Psychology in Beijing Normal University. Broadly, my research interests involve the study of mechanisms that how we learn and remember everything, as well as the general cognitive mechanisms underlined our daily activities. In addition, I have a particular interest in aesthetic perceptions of  art, music or any object that can give rise to aesthetic judgments and its neural bases. Also, I am interested in how to make human feel better and really enjoy their lives, like studying the roles individual differences variables (e.g., optimism, perfectionism, coping) play in positive and negative mental health. 
 
-Currently I work as a research assistant supervised by Professor [Gui Xue](https://scholar.google.com/citations?user=AyNpEX4AAAAJ&hl=en), we use EEG and other brain imaging method to explore the neural mechanism underlined memory
+Currently I work as a research assistant supervised by Professor [Gui Xue](https://scholar.google.com.hk/citations?user=Gyms-jgAAAAJ&hl=zh-CN&oi=ao), here we use EEG and other brain imaging method to explore the neural mechanism underlined human memory. Also, I am supervised by Professor [Ke Zhou](https://scholar.google.com.hk/citations?user=QSngYiAAAAAJ&hl=zh-CN&oi=ao) doing research about the how attention may alter our perception of numerosity and its neural mechanism. 
+
+I am the kind of person who is curious about everything in life and enjoy solving problems, 
