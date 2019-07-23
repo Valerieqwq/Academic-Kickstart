@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate student in Faculty of Psychology
+role: Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +18,18 @@ organizations:
   url: "http://psych.bnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include .
+bio: Siyu Lai, currently an undergraduate student in Faculty of Psychology, BNU. My research interest lies about cognitive neuroscience, like memory, attention and perception. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- memory
+- attention
+- perception
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
   - course: BSc in Psychology
     institution: Beijing Normal University
-    expected year: 2021
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +38,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:201711061220@mail.bnu.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Valerieqwq
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -68,6 +62,9 @@ social:
 # user_groups:
 # - Researchers
 # - Visitors
-# ---
+
+---
 
 I am an undergraduate student majored in Psychology in Beijing Normal University. Broadly, my research interests involve the study of mechanisms that how we learn and remember everything, as well as the general cognitive mechanisms underlined our daily activities. In addition, I have a particular interest in aesthetic perceptions of  art, music or any object that can give rise to aesthetic judgments and its neural bases. Also, I am interested in how to make human feel better and really enjoy their lives, like studying the roles individual differences variables (e.g., optimism, perfectionism, coping) play in positive and negative mental health. 
+
+Currently I work as a research assistant supervised by Professor [Gui Xue](https://scholar.google.com/citations?user=AyNpEX4AAAAJ&hl=en), we use EEG and other brain imaging method to explore the neural mechanism underlined memory
